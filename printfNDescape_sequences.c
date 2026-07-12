@@ -1,6 +1,5 @@
 /*
-    Title          :- wap to display student's basic information using printf() and escape sequence
-
+    Title :- wap to display student's basic information using printf() and escape sequence
 */
 
 #include <stdio.h>
